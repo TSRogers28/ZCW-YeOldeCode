@@ -34,3 +34,7 @@ What does the exception do? why does this seem like a good idea?
 
 Read through this class, carefully. See how the developer is trying to simplify Java
 IO? Do what you find there.
+
+### Lab Goals
+
+Write tests for many of these classes. The more you do, the more points you get.
