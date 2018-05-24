@@ -37,4 +37,4 @@ IO? Do what you find there.
 
 ### Lab Goals
 
-Write tests for many of these classes. The more you do, the more points you get.
+Write tests for many of these classes (leave OUT TextIO). The more you do, the more points you get.
