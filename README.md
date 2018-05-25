@@ -1,4 +1,4 @@
-# Some Code Fom Long Ago.
+# Some Code From Long Ago.
 
 Java has been around a long time, and this code proves that point.
 
